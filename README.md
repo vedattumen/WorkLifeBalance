@@ -1,5 +1,8 @@
 # WorkLifeBalance
 #Author: Assit Prof. Dr. Vedat TÜMEN and Assist Prof. Ayşe Saliha SUNAR
+#dataset: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
+Abstract:
 Work-life has a great impact on other parts of people’s lives. 
 The ef-fort made in the workspace would cause attrition, exhaustion, and health problems. 
 Employers need to take necessary measures to keep employees motivated by helping them balance work and personal lives. 
