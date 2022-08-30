@@ -1,6 +1,7 @@
 # WorkLifeBalance
-#Author: Assit Prof. Dr. Vedat TÜMEN and Assist Prof. Ayşe Saliha SUNAR
-#dataset: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+# Author: Assit Prof. Dr. Vedat TÜMEN and Assist Prof. Ayşe Saliha SUNAR
+
+# dataset: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 Abstract:
 Work-life has a great impact on other parts of people’s lives. 
